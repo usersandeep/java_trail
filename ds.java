@@ -15,4 +15,8 @@ sandeep()
 code
 }
 >>>>>>> 9efb9e8ee6761304633822ee9013115b297eb4ff
+mewmethod()
+{
+//code
+
 }
